@@ -1,0 +1,19 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=E:\\FlutterSdk\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\cloud_firestore-0.12.11\\
+firebase_auth=E:\\FlutterSdk\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_auth-0.14.0+9\\
+firebase_core=E:\\FlutterSdk\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core-0.4.5\\
+firebase_core_web=E:\\FlutterSdk\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core_web-0.1.1+2\\
+firebase_database=E:\\FlutterSdk\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_database-3.1.6\\
+firebase_storage=E:\\FlutterSdk\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_storage-3.1.6\\
+flutter_plugin_android_lifecycle=E:\\FlutterSdk\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_plugin_android_lifecycle-1.0.11\\
+image_picker=E:\\FlutterSdk\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\image_picker-0.6.7+22\\
+path_provider_linux=E:\\FlutterSdk\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_linux-2.0.0\\
+path_provider_windows=E:\\FlutterSdk\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_windows-2.0.1\\
+permission_handler=E:\\FlutterSdk\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\permission_handler-5.1.0+2\\
+shared_preferences=E:\\FlutterSdk\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences-2.0.5\\
+shared_preferences_linux=E:\\FlutterSdk\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences_linux-2.0.0\\
+shared_preferences_macos=E:\\FlutterSdk\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences_macos-2.0.0\\
+shared_preferences_web=E:\\FlutterSdk\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences_web-2.0.0\\
+shared_preferences_windows=E:\\FlutterSdk\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences_windows-2.0.0\\
+video_player=E:\\FlutterSdk\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\video_player-2.1.1\\
+video_player_web=E:\\FlutterSdk\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\video_player_web-2.0.0\\
